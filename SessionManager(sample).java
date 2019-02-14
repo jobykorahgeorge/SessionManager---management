@@ -1,4 +1,4 @@
-package com.prince.sirius_fr.utilities;
+package //pakagename;
 
 import android.content.Context;
 import android.content.SharedPreferences;
